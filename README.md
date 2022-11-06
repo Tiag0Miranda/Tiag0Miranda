@@ -1,4 +1,4 @@
-## Oii meu nome é Tiago Miranda, gosto de tecnolgia porque pode mudar vidas!
+## Oii meu nome é Tiago Miranda, gosto de tecnologia porque pode mudar vidas!
 
 <div>
   <a href="https://github.com/Tiag0Miranda">
